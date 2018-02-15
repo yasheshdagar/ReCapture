@@ -46,14 +46,8 @@
             android:layout_centerHorizontal="true"
             android:fontFamily="sans-serif-condensed"
             android:padding="8dp"
-            android:text="Shreya YD"
+            android:text="-By YasheshDagar"
             android:textSize="14sp"/>
-
-        <ImageView
-            android:layout_gravity="center"
-            android:src="@drawable/heart"
-            android:layout_width="25dp"
-            android:layout_height="25dp" />
 
     </LinearLayout>
 
