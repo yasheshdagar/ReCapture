@@ -47,7 +47,7 @@
             android:fontFamily="sans-serif-condensed"
             android:padding="8dp"
             android:text="-By YasheshDagar"
-            android:textSize="14sp"/>
+            android:textSize="16sp"/>
 
     </LinearLayout>
 
